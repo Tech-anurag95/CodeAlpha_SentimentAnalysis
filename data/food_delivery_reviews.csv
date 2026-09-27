@@ -1,0 +1,1501 @@
+Review_ID,Review_Text,Rating,Aspect,Sentiment
+REV_00001,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00002,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_00003,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00004,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00005,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00006,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_00007,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00008,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00009,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00010,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00011,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00012,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00013,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00014,"Fresh sushi, crisp packaging, and great portion size. Will order again! Five stars!",5,Food Quality,Positive
+REV_00015,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00016,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00017,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00018,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00019,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00020,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_00021,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00022,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00023,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00024,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00025,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00026,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00027,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_00028,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_00029,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00030,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00031,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00032,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00033,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00034,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00035,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00036,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00037,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00038,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00039,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00040,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00041,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00042,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00043,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00044,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_00045,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00046,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00047,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00048,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00049,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00050,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00051,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00052,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00053,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_00054,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00055,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00056,Way overpriced for tiny portions! Waste of money. Never ordering again!,1,Pricing,Negative
+REV_00057,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00058,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00059,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00060,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00061,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00062,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_00063,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_00064,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00065,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00066,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00067,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00068,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00069,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00070,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00071,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00072,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00073,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00074,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00075,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00076,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00077,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00078,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00079,Soggy fries and cold burger. Terrible quality control. Please fix your service!,2,Food Quality,Negative
+REV_00080,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00081,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00082,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_00083,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00084,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00085,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_00086,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00087,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00088,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00089,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00090,The food arrived piping hot and was absolutely delicious! Best pizza ever. Would definitely recommend!,5,Food Quality,Positive
+REV_00091,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00092,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00093,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_00094,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00095,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00096,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00097,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00098,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00099,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_00100,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00101,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00102,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00103,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00104,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00105,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00106,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00107,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00108,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00109,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00110,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00111,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00112,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00113,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00114,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00115,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00116,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00117,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_00118,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00119,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00120,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00121,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00122,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00123,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00124,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00125,App crashed during payment and charged me twice. Refund took days. Never ordering again!,1,App Experience,Negative
+REV_00126,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00127,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00128,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00129,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00130,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_00131,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00132,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00133,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00134,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00135,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00136,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00137,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00138,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00139,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00140,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00141,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00142,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00143,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00144,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00145,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00146,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00147,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00148,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00149,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00150,"Late delivery by over an hour, driver was unapologetic. Never ordering again!",1,Delivery Speed,Negative
+REV_00151,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00152,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_00153,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00154,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00155,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00156,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_00157,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_00158,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00159,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00160,The food arrived piping hot and was absolutely delicious! Best pizza ever. Five stars!,5,Food Quality,Positive
+REV_00161,Excellent customer service resolved my item question instantly. 10/10 experience. Five stars!,5,Customer Support,Positive
+REV_00162,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00163,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00164,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00165,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00166,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00167,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00168,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00169,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00170,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00171,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00172,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_00173,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00174,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00175,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00176,Amazing burger and crispy fries. Delivery took only 20 minutes! Five stars!,5,Delivery Speed,Positive
+REV_00177,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00178,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00179,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_00180,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00181,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00182,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00183,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00184,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00185,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00186,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00187,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00188,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00189,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_00190,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00191,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00192,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_00193,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00194,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00195,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00196,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00197,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_00198,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00199,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00200,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00201,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00202,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00203,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00204,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00205,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00206,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00207,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00208,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00209,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00210,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00211,Support bot was useless and couldn't resolve my missing order issue. Please fix your service!,1,Customer Support,Negative
+REV_00212,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00213,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00214,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00215,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00216,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00217,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00218,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00219,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00220,The food arrived piping hot and was absolutely delicious! Best pizza ever. Would definitely recommend!,5,Food Quality,Positive
+REV_00221,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_00222,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00223,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_00224,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00225,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00226,Way overpriced for tiny portions! Waste of money. Never ordering again!,1,Pricing,Negative
+REV_00227,The food arrived piping hot and was absolutely delicious! Best pizza ever. Super happy with this service.,5,Food Quality,Positive
+REV_00228,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00229,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00230,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00231,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00232,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00233,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00234,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_00235,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00236,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00237,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00238,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00239,The food arrived piping hot and was absolutely delicious! Best pizza ever. Super happy with this service.,5,Food Quality,Positive
+REV_00240,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_00241,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00242,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00243,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00244,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00245,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00246,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00247,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_00248,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00249,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00250,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_00251,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_00252,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00253,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00254,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00255,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00256,"Late delivery by over an hour, driver was unapologetic. Total disaster.",1,Delivery Speed,Negative
+REV_00257,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00258,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00259,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00260,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00261,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_00262,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00263,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00264,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00265,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00266,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00267,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_00268,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00269,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00270,The food arrived piping hot and was absolutely delicious! Best pizza ever. Would definitely recommend!,5,Food Quality,Positive
+REV_00271,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00272,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00273,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00274,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00275,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_00276,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00277,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00278,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00279,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_00280,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00281,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00282,Soggy fries and cold burger. Terrible quality control. Please fix your service!,2,Food Quality,Negative
+REV_00283,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_00284,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00285,"Late delivery by over an hour, driver was unapologetic. Total disaster.",1,Delivery Speed,Negative
+REV_00286,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00287,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00288,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00289,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_00290,Soggy fries and cold burger. Terrible quality control. Total disaster.,2,Food Quality,Negative
+REV_00291,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00292,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00293,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00294,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00295,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00296,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00297,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00298,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00299,"Fresh sushi, crisp packaging, and great portion size. Will order again! Five stars!",5,Food Quality,Positive
+REV_00300,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00301,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00302,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00303,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00304,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00305,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00306,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00307,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00308,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00309,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00310,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00311,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00312,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00313,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00314,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00315,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00316,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_00317,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00318,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00319,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00320,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_00321,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00322,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00323,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00324,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00325,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00326,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00327,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00328,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_00329,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_00330,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00331,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00332,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00333,Koshary tasted authentic and fresh. Very affordable price and great value. Super happy with this service.,4,Pricing,Positive
+REV_00334,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00335,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00336,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00337,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00338,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00339,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00340,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00341,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00342,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00343,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00344,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00345,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00346,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00347,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00348,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00349,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00350,The food arrived piping hot and was absolutely delicious! Best pizza ever. Super happy with this service.,5,Food Quality,Positive
+REV_00351,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_00352,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00353,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_00354,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00355,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00356,Very generous portions and neat eco-friendly packaging. Five stars!,5,Packaging,Positive
+REV_00357,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00358,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00359,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00360,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00361,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00362,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00363,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00364,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00365,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00366,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00367,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00368,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00369,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_00370,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00371,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00372,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00373,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00374,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00375,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_00376,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_00377,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00378,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00379,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00380,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00381,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00382,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00383,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00384,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00385,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_00386,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00387,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00388,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_00389,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00390,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00391,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00392,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00393,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00394,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00395,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00396,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00397,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00398,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_00399,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00400,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00401,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00402,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00403,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00404,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00405,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00406,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00407,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00408,The food arrived piping hot and was absolutely delicious! Best pizza ever. Five stars!,5,Food Quality,Positive
+REV_00409,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00410,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00411,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00412,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00413,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00414,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_00415,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00416,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00417,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_00418,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00419,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00420,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00421,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00422,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00423,Way overpriced for tiny portions! Waste of money. Never ordering again!,1,Pricing,Negative
+REV_00424,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00425,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_00426,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00427,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00428,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00429,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00430,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00431,The food arrived piping hot and was absolutely delicious! Best pizza ever. Five stars!,5,Food Quality,Positive
+REV_00432,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00433,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_00434,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00435,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00436,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00437,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_00438,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00439,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00440,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00441,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00442,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00443,"Fresh sushi, crisp packaging, and great portion size. Will order again! Five stars!",5,Food Quality,Positive
+REV_00444,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00445,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00446,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00447,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00448,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00449,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00450,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00451,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00452,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00453,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00454,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00455,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00456,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00457,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00458,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00459,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00460,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00461,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_00462,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00463,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00464,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00465,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00466,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00467,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00468,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00469,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_00470,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00471,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00472,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00473,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00474,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00475,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_00476,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00477,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00478,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00479,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00480,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Total disaster.",1,Food Quality,Negative
+REV_00481,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_00482,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00483,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00484,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00485,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00486,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00487,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00488,Support bot was useless and couldn't resolve my missing order issue. Please fix your service!,1,Customer Support,Negative
+REV_00489,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_00490,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00491,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00492,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00493,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_00494,Soggy fries and cold burger. Terrible quality control. Total disaster.,2,Food Quality,Negative
+REV_00495,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00496,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00497,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00498,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00499,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00500,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00501,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00502,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00503,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_00504,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00505,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00506,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00507,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00508,Koshary tasted authentic and fresh. Very affordable price and great value. Super happy with this service.,4,Pricing,Positive
+REV_00509,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_00510,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00511,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00512,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_00513,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00514,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00515,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00516,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00517,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_00518,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00519,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00520,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00521,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00522,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00523,Soggy fries and cold burger. Terrible quality control. Please fix your service!,2,Food Quality,Negative
+REV_00524,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_00525,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_00526,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00527,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00528,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00529,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00530,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00531,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_00532,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00533,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00534,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00535,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00536,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_00537,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00538,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00539,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00540,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00541,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00542,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_00543,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00544,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_00545,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00546,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00547,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00548,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00549,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00550,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_00551,Excellent customer service resolved my item question instantly. 10/10 experience. Five stars!,5,Customer Support,Positive
+REV_00552,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00553,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00554,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00555,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_00556,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00557,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00558,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00559,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00560,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_00561,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00562,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_00563,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00564,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00565,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00566,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00567,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00568,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00569,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00570,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00571,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00572,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00573,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00574,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00575,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00576,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_00577,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_00578,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00579,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_00580,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00581,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00582,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00583,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00584,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00585,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_00586,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00587,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00588,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00589,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00590,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00591,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00592,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00593,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00594,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00595,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00596,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00597,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00598,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00599,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00600,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00601,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00602,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00603,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_00604,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_00605,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00606,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00607,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00608,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00609,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_00610,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00611,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00612,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00613,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00614,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00615,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00616,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00617,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00618,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00619,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_00620,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00621,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00622,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Total disaster.",1,Food Quality,Negative
+REV_00623,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00624,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00625,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00626,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_00627,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00628,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00629,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_00630,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00631,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00632,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00633,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00634,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00635,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00636,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00637,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00638,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00639,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00640,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_00641,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00642,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00643,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00644,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00645,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00646,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00647,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00648,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00649,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00650,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00651,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00652,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00653,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00654,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00655,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_00656,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00657,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00658,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_00659,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00660,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00661,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00662,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00663,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00664,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00665,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00666,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00667,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00668,Koshary tasted authentic and fresh. Very affordable price and great value. Super happy with this service.,4,Pricing,Positive
+REV_00669,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00670,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00671,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00672,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00673,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00674,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00675,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00676,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00677,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00678,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00679,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_00680,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00681,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00682,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00683,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00684,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00685,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00686,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00687,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00688,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00689,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_00690,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00691,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00692,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00693,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00694,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00695,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00696,Support bot was useless and couldn't resolve my missing order issue. Please fix your service!,1,Customer Support,Negative
+REV_00697,The food arrived piping hot and was absolutely delicious! Best pizza ever. Would definitely recommend!,5,Food Quality,Positive
+REV_00698,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00699,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00700,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00701,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00702,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00703,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_00704,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00705,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00706,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00707,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00708,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00709,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00710,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00711,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00712,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00713,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00714,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00715,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00716,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00717,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00718,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00719,"The driver was rude, refused to come to the door, and got lost. Please fix your service!",1,Delivery Speed,Negative
+REV_00720,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00721,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00722,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00723,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00724,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00725,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00726,Excellent customer service resolved my item question instantly. 10/10 experience. Five stars!,5,Customer Support,Positive
+REV_00727,Soggy fries and cold burger. Terrible quality control. Please fix your service!,2,Food Quality,Negative
+REV_00728,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00729,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00730,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00731,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00732,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00733,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00734,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00735,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00736,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00737,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00738,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00739,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00740,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00741,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_00742,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_00743,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00744,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_00745,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00746,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00747,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00748,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00749,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_00750,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_00751,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00752,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00753,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00754,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_00755,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00756,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_00757,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_00758,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00759,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00760,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_00761,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00762,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_00763,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00764,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00765,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00766,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00767,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00768,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00769,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00770,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00771,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00772,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_00773,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00774,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00775,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00776,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_00777,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00778,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00779,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00780,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00781,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00782,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_00783,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00784,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00785,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00786,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00787,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00788,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00789,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00790,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00791,"Food was tasty, good temperature, and driver followed all delivery instructions. Five stars!",4,Delivery Speed,Positive
+REV_00792,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00793,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00794,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_00795,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00796,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00797,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00798,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_00799,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_00800,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00801,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_00802,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_00803,"Crispy fried chicken, not greasy at all. Excellent quality! Super happy with this service.",5,Food Quality,Positive
+REV_00804,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00805,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00806,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00807,"Late delivery by over an hour, driver was unapologetic. Never ordering again!",1,Delivery Speed,Negative
+REV_00808,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00809,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00810,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00811,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00812,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00813,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00814,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00815,"Super fast delivery, driver was very polite and professional. Highly recommended! Super happy with this service.",5,Delivery Speed,Positive
+REV_00816,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00817,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00818,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00819,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00820,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00821,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00822,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00823,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00824,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_00825,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_00826,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00827,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00828,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00829,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_00830,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_00831,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00832,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00833,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00834,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00835,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00836,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00837,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00838,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00839,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00840,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00841,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00842,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_00843,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_00844,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_00845,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00846,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00847,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00848,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_00849,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00850,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00851,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00852,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00853,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00854,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_00855,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00856,"Late delivery by over an hour, driver was unapologetic. Total disaster.",1,Delivery Speed,Negative
+REV_00857,The food arrived piping hot and was absolutely delicious! Best pizza ever. Super happy with this service.,5,Food Quality,Positive
+REV_00858,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_00859,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00860,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00861,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00862,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00863,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_00864,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_00865,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00866,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_00867,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_00868,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00869,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00870,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00871,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00872,App crashed during payment and charged me twice. Refund took days. Never ordering again!,1,App Experience,Negative
+REV_00873,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00874,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00875,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00876,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00877,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_00878,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_00879,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_00880,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00881,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_00882,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_00883,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00884,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_00885,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00886,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_00887,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_00888,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00889,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00890,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00891,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00892,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00893,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00894,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00895,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_00896,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_00897,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00898,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00899,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00900,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00901,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00902,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00903,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_00904,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00905,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00906,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_00907,"Easy to order on the app, seamless credit card payment, on-time arrival. Would definitely recommend!",4,App Experience,Positive
+REV_00908,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_00909,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_00910,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_00911,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00912,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00913,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_00914,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00915,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00916,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00917,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00918,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_00919,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_00920,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_00921,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00922,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_00923,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_00924,App crashed during payment and charged me twice. Refund took days. Never ordering again!,1,App Experience,Negative
+REV_00925,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00926,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_00927,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_00928,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00929,"Food was tasty, good temperature, and driver followed all delivery instructions. Five stars!",4,Delivery Speed,Positive
+REV_00930,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_00931,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00932,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_00933,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00934,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_00935,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_00936,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00937,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_00938,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_00939,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00940,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_00941,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_00942,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00943,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00944,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_00945,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00946,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_00947,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00948,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00949,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_00950,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_00951,"The driver was rude, refused to come to the door, and got lost. Please fix your service!",1,Delivery Speed,Negative
+REV_00952,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00953,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00954,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00955,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00956,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_00957,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00958,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_00959,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_00960,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_00961,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00962,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00963,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_00964,Excellent customer service resolved my item question instantly. 10/10 experience. Five stars!,5,Customer Support,Positive
+REV_00965,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_00966,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_00967,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_00968,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_00969,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_00970,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_00971,Soggy fries and cold burger. Terrible quality control. Please fix your service!,2,Food Quality,Negative
+REV_00972,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00973,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00974,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00975,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00976,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_00977,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_00978,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00979,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_00980,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_00981,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_00982,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_00983,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_00984,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_00985,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_00986,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_00987,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_00988,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00989,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_00990,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00991,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_00992,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_00993,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_00994,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_00995,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_00996,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_00997,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_00998,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_00999,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01000,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01001,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_01002,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_01003,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01004,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_01005,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_01006,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_01007,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01008,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01009,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_01010,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01011,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01012,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_01013,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01014,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01015,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01016,App crashed during payment and charged me twice. Refund took days. Never ordering again!,1,App Experience,Negative
+REV_01017,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01018,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01019,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01020,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_01021,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_01022,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01023,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01024,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01025,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_01026,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_01027,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01028,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01029,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01030,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01031,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01032,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01033,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_01034,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_01035,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01036,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_01037,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01038,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01039,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01040,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_01041,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_01042,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01043,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01044,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_01045,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01046,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_01047,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01048,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01049,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01050,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01051,Koshary tasted authentic and fresh. Very affordable price and great value. Super happy with this service.,4,Pricing,Positive
+REV_01052,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01053,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_01054,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01055,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01056,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01057,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_01058,"Food was tasty, good temperature, and driver followed all delivery instructions. Five stars!",4,Delivery Speed,Positive
+REV_01059,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01060,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01061,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01062,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01063,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01064,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01065,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_01066,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Total disaster.",1,Food Quality,Negative
+REV_01067,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_01068,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01069,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01070,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01071,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01072,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_01073,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01074,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01075,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01076,Way overpriced for tiny portions! Waste of money. Never ordering again!,1,Pricing,Negative
+REV_01077,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01078,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_01079,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_01080,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01081,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_01082,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01083,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01084,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01085,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01086,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_01087,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_01088,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01089,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01090,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_01091,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01092,Missing drinks and extra sauces that I paid for. Horrible service! Total disaster.,1,Customer Support,Negative
+REV_01093,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_01094,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_01095,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_01096,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01097,Excellent customer service resolved my item question instantly. 10/10 experience. Would definitely recommend!,5,Customer Support,Positive
+REV_01098,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_01099,Koshary tasted authentic and fresh. Very affordable price and great value. Would definitely recommend!,4,Pricing,Positive
+REV_01100,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_01101,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01102,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_01103,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_01104,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01105,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_01106,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01107,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01108,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01109,"Crispy fried chicken, not greasy at all. Excellent quality! Super happy with this service.",5,Food Quality,Positive
+REV_01110,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01111,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01112,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01113,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01114,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01115,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01116,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_01117,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01118,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01119,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01120,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01121,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_01122,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_01123,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01124,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01125,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01126,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01127,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01128,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_01129,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01130,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_01131,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_01132,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_01133,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01134,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01135,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01136,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01137,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Would definitely recommend!,5,Food Quality,Positive
+REV_01138,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01139,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_01140,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01141,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01142,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01143,Food was spilled all over inside the plastic bag. Awful packaging! Never ordering again!,1,Packaging,Negative
+REV_01144,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01145,"Fresh salad, dressing on the side as requested. Perfect lunch! Five stars!",5,Food Quality,Positive
+REV_01146,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_01147,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01148,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01149,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_01150,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_01151,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01152,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01153,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01154,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01155,Very generous portions and neat eco-friendly packaging. Five stars!,5,Packaging,Positive
+REV_01156,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01157,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_01158,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_01159,"Great meal, fast courier, accurate order items. Super happy with this service.",5,Delivery Speed,Positive
+REV_01160,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_01161,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_01162,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01163,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01164,"The driver was rude, refused to come to the door, and got lost. Please fix your service!",1,Delivery Speed,Negative
+REV_01165,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_01166,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01167,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_01168,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_01169,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01170,Koshary tasted authentic and fresh. Very affordable price and great value. Super happy with this service.,4,Pricing,Positive
+REV_01171,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01172,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_01173,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01174,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01175,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01176,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01177,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01178,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_01179,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01180,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01181,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01182,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01183,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01184,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_01185,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_01186,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01187,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_01188,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01189,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01190,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_01191,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_01192,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_01193,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01194,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01195,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01196,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01197,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01198,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01199,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01200,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_01201,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01202,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01203,Way overpriced for tiny portions! Waste of money. Never ordering again!,1,Pricing,Negative
+REV_01204,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01205,Driver called politely upon arrival and handed over the food carefully. Super happy with this service.,5,Delivery Speed,Positive
+REV_01206,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_01207,"Crispy fried chicken, not greasy at all. Excellent quality! Super happy with this service.",5,Food Quality,Positive
+REV_01208,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01209,Very generous portions and neat eco-friendly packaging. Five stars!,5,Packaging,Positive
+REV_01210,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01211,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01212,"Super fast delivery, driver was very polite and professional. Highly recommended! Five stars!",5,Delivery Speed,Positive
+REV_01213,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01214,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01215,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01216,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_01217,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01218,Driver called politely upon arrival and handed over the food carefully.,5,Delivery Speed,Positive
+REV_01219,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01220,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01221,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01222,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01223,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01224,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_01225,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01226,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01227,"Fresh sushi, crisp packaging, and great portion size. Will order again! Five stars!",5,Food Quality,Positive
+REV_01228,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01229,"Crispy fried chicken, not greasy at all. Excellent quality! Super happy with this service.",5,Food Quality,Positive
+REV_01230,"Late delivery by over an hour, driver was unapologetic. Total disaster.",1,Delivery Speed,Negative
+REV_01231,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01232,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01233,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01234,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01235,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01236,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_01237,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01238,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_01239,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01240,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01241,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01242,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_01243,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01244,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01245,Koshary tasted authentic and fresh. Very affordable price and great value. Five stars!,4,Pricing,Positive
+REV_01246,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01247,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_01248,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01249,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01250,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01251,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_01252,Love the discount deals and quick checkout process. Super happy with this service.,4,Pricing,Positive
+REV_01253,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01254,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01255,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_01256,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01257,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01258,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_01259,The food arrived piping hot and was absolutely delicious! Best pizza ever. Would definitely recommend!,5,Food Quality,Positive
+REV_01260,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01261,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01262,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01263,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_01264,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01265,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01266,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01267,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01268,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01269,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Please fix your service!",1,Food Quality,Negative
+REV_01270,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_01271,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_01272,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01273,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01274,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_01275,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01276,Wrong item delivered and the customer support was completely unhelpful. Total disaster.,1,Customer Support,Negative
+REV_01277,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_01278,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_01279,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_01280,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01281,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_01282,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_01283,Amazing burger and crispy fries. Delivery took only 20 minutes! Five stars!,5,Delivery Speed,Positive
+REV_01284,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_01285,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01286,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01287,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01288,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01289,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_01290,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_01291,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_01292,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_01293,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01294,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01295,"Great meal, fast courier, accurate order items. Five stars!",5,Delivery Speed,Positive
+REV_01296,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_01297,Support bot was useless and couldn't resolve my missing order issue. Total disaster.,1,Customer Support,Negative
+REV_01298,The shawarma was packed with flavor and delivered warm. Love the garlic sauce!,5,Food Quality,Positive
+REV_01299,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01300,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01301,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_01302,Very generous portions and neat eco-friendly packaging. Five stars!,5,Packaging,Positive
+REV_01303,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01304,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01305,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_01306,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01307,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_01308,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01309,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01310,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01311,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01312,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01313,Soggy fries and cold burger. Terrible quality control. Total disaster.,2,Food Quality,Negative
+REV_01314,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01315,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_01316,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01317,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01318,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01319,The food arrived piping hot and was absolutely delicious! Best pizza ever. Super happy with this service.,5,Food Quality,Positive
+REV_01320,Love the discount deals and quick checkout process. Would definitely recommend!,4,Pricing,Positive
+REV_01321,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01322,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_01323,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01324,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01325,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01326,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_01327,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01328,Food smelled bad and looked undercooked. Could not eat it. Total disaster.,1,Food Quality,Negative
+REV_01329,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01330,Terrible experience! The food arrived completely cold after a 90 minute delay.,1,Delivery Speed,Negative
+REV_01331,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_01332,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01333,"Easy to order on the app, seamless credit card payment, on-time arrival.",4,App Experience,Positive
+REV_01334,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01335,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01336,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_01337,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_01338,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01339,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_01340,Food smelled bad and looked undercooked. Could not eat it. Never ordering again!,1,Food Quality,Negative
+REV_01341,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01342,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01343,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01344,"The driver was rude, refused to come to the door, and got lost. Never ordering again!",1,Delivery Speed,Negative
+REV_01345,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01346,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_01347,Driver called politely upon arrival and handed over the food carefully. Five stars!,5,Delivery Speed,Positive
+REV_01348,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01349,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_01350,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01351,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_01352,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_01353,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01354,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01355,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01356,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_01357,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01358,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_01359,Very generous portions and neat eco-friendly packaging.,5,Packaging,Positive
+REV_01360,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01361,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01362,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_01363,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_01364,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01365,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_01366,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Super happy with this service.,5,Food Quality,Positive
+REV_01367,Love the discount deals and quick checkout process.,4,Pricing,Positive
+REV_01368,"Super fast delivery, driver was very polite and professional. Highly recommended!",5,Delivery Speed,Positive
+REV_01369,Very generous portions and neat eco-friendly packaging. Super happy with this service.,5,Packaging,Positive
+REV_01370,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01371,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01372,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01373,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_01374,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01375,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01376,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_01377,The food arrived piping hot and was absolutely delicious! Best pizza ever. Five stars!,5,Food Quality,Positive
+REV_01378,Support bot was useless and couldn't resolve my missing order issue. Never ordering again!,1,Customer Support,Negative
+REV_01379,"Food was tasty, good temperature, and driver followed all delivery instructions. Five stars!",4,Delivery Speed,Positive
+REV_01380,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_01381,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01382,"Fresh salad, dressing on the side as requested. Perfect lunch!",5,Food Quality,Positive
+REV_01383,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_01384,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01385,"Great meal, fast courier, accurate order items. Would definitely recommend!",5,Delivery Speed,Positive
+REV_01386,Food was spilled all over inside the plastic bag. Awful packaging! Total disaster.,1,Packaging,Negative
+REV_01387,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01388,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01389,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01390,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_01391,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01392,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01393,Food smelled bad and looked undercooked. Could not eat it.,1,Food Quality,Negative
+REV_01394,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01395,"Great meal, fast courier, accurate order items.",5,Delivery Speed,Positive
+REV_01396,Love the discount deals and quick checkout process. Five stars!,4,Pricing,Positive
+REV_01397,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01398,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01399,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
+REV_01400,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01401,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_01402,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_01403,Way overpriced for tiny portions! Waste of money.,1,Pricing,Negative
+REV_01404,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01405,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_01406,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01407,"Crispy fried chicken, not greasy at all. Excellent quality! Super happy with this service.",5,Food Quality,Positive
+REV_01408,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01409,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01410,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_01411,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01412,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_01413,App crashed during payment and charged me twice. Refund took days. Please fix your service!,1,App Experience,Negative
+REV_01414,The food arrived piping hot and was absolutely delicious! Best pizza ever.,5,Food Quality,Positive
+REV_01415,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01416,App crashed during payment and charged me twice. Refund took days. Total disaster.,1,App Experience,Negative
+REV_01417,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01418,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01419,"Crispy fried chicken, not greasy at all. Excellent quality!",5,Food Quality,Positive
+REV_01420,"Late delivery by over an hour, driver was unapologetic. Please fix your service!",1,Delivery Speed,Negative
+REV_01421,Soggy fries and cold burger. Terrible quality control.,2,Food Quality,Negative
+REV_01422,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01423,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01424,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01425,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01426,"Fresh salad, dressing on the side as requested. Perfect lunch! Would definitely recommend!",5,Food Quality,Positive
+REV_01427,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01428,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_01429,"Late delivery by over an hour, driver was unapologetic.",1,Delivery Speed,Negative
+REV_01430,"Crispy fried chicken, not greasy at all. Excellent quality! Five stars!",5,Food Quality,Positive
+REV_01431,App crashed during payment and charged me twice. Refund took days.,1,App Experience,Negative
+REV_01432,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01433,Amazing burger and crispy fries. Delivery took only 20 minutes! Five stars!,5,Delivery Speed,Positive
+REV_01434,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_01435,Food was spilled all over inside the plastic bag. Awful packaging! Please fix your service!,1,Packaging,Negative
+REV_01436,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01437,Wrong item delivered and the customer support was completely unhelpful.,1,Customer Support,Negative
+REV_01438,"The driver was rude, refused to come to the door, and got lost. Total disaster.",1,Delivery Speed,Negative
+REV_01439,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01440,"Food was okay, nothing special but satisfied my hunger.",3,Food Quality,Neutral
+REV_01441,"Super fast delivery, driver was very polite and professional. Highly recommended! Would definitely recommend!",5,Delivery Speed,Positive
+REV_01442,"Easy to order on the app, seamless credit card payment, on-time arrival. Five stars!",4,App Experience,Positive
+REV_01443,Missing drinks and extra sauces that I paid for. Horrible service! Please fix your service!,1,Customer Support,Negative
+REV_01444,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01445,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01446,Terrible experience! The food arrived completely cold after a 90 minute delay. Never ordering again!,1,Delivery Speed,Negative
+REV_01447,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01448,Very generous portions and neat eco-friendly packaging. Would definitely recommend!,5,Packaging,Positive
+REV_01449,Way overpriced for tiny portions! Waste of money. Total disaster.,1,Pricing,Negative
+REV_01450,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01451,Terrible experience! The food arrived completely cold after a 90 minute delay. Total disaster.,1,Delivery Speed,Negative
+REV_01452,"Easy to order on the app, seamless credit card payment, on-time arrival. Super happy with this service.",4,App Experience,Positive
+REV_01453,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01454,"Fresh sushi, crisp packaging, and great portion size. Will order again! Would definitely recommend!",5,Food Quality,Positive
+REV_01455,"Food was tasty, good temperature, and driver followed all delivery instructions. Super happy with this service.",4,Delivery Speed,Positive
+REV_01456,"The chicken was dry, burnt, and tasted stale. Extremely disappointed. Never ordering again!",1,Food Quality,Negative
+REV_01457,Food smelled bad and looked undercooked. Could not eat it. Please fix your service!,1,Food Quality,Negative
+REV_01458,"Fresh sushi, crisp packaging, and great portion size. Will order again!",5,Food Quality,Positive
+REV_01459,Missing drinks and extra sauces that I paid for. Horrible service! Never ordering again!,1,Customer Support,Negative
+REV_01460,"The chicken was dry, burnt, and tasted stale. Extremely disappointed.",1,Food Quality,Negative
+REV_01461,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01462,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01463,"The driver was rude, refused to come to the door, and got lost. Please fix your service!",1,Delivery Speed,Negative
+REV_01464,"The sandwich was fine, but a bit bland in terms of seasoning.",3,Food Quality,Neutral
+REV_01465,Amazing burger and crispy fries. Delivery took only 20 minutes! Would definitely recommend!,5,Delivery Speed,Positive
+REV_01466,Wrong item delivered and the customer support was completely unhelpful. Please fix your service!,1,Customer Support,Negative
+REV_01467,"Food was tasty, good temperature, and driver followed all delivery instructions. Would definitely recommend!",4,Delivery Speed,Positive
+REV_01468,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01469,"Average delivery time, took about 40 minutes as estimated.",3,Delivery Speed,Neutral
+REV_01470,Average experience. Neither bad nor outstanding.,3,General,Neutral
+REV_01471,Soggy fries and cold burger. Terrible quality control. Never ordering again!,2,Food Quality,Negative
+REV_01472,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_01473,"Crispy fried chicken, not greasy at all. Excellent quality! Would definitely recommend!",5,Food Quality,Positive
+REV_01474,Support bot was useless and couldn't resolve my missing order issue.,1,Customer Support,Negative
+REV_01475,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01476,The shawarma was packed with flavor and delivered warm. Love the garlic sauce! Five stars!,5,Food Quality,Positive
+REV_01477,Wrong item delivered and the customer support was completely unhelpful. Never ordering again!,1,Customer Support,Negative
+REV_01478,"Fresh salad, dressing on the side as requested. Perfect lunch! Super happy with this service.",5,Food Quality,Positive
+REV_01479,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01480,Driver called politely upon arrival and handed over the food carefully. Would definitely recommend!,5,Delivery Speed,Positive
+REV_01481,"The driver was rude, refused to come to the door, and got lost.",1,Delivery Speed,Negative
+REV_01482,"Standard pizza, tasted decent but arrived slightly lukewarm.",3,Food Quality,Neutral
+REV_01483,Way overpriced for tiny portions! Waste of money. Please fix your service!,1,Pricing,Negative
+REV_01484,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01485,Support bot was useless and couldn't resolve my missing order issue. Please fix your service!,1,Customer Support,Negative
+REV_01486,Terrible experience! The food arrived completely cold after a 90 minute delay. Please fix your service!,1,Delivery Speed,Negative
+REV_01487,Soggy fries and cold burger. Terrible quality control. Total disaster.,2,Food Quality,Negative
+REV_01488,Amazing burger and crispy fries. Delivery took only 20 minutes!,5,Delivery Speed,Positive
+REV_01489,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01490,"The salad was decent, though dressing was slightly watery.",3,Food Quality,Neutral
+REV_01491,Excellent customer service resolved my item question instantly. 10/10 experience.,5,Customer Support,Positive
+REV_01492,Koshary tasted authentic and fresh. Very affordable price and great value.,4,Pricing,Positive
+REV_01493,"Food was tasty, good temperature, and driver followed all delivery instructions.",4,Delivery Speed,Positive
+REV_01494,"Driver was fine, food arrived within the normal expected window.",3,Delivery Speed,Neutral
+REV_01495,"Portion was fair for the price, standard packaging.",3,Pricing,Neutral
+REV_01496,"Fresh sushi, crisp packaging, and great portion size. Will order again! Super happy with this service.",5,Food Quality,Positive
+REV_01497,Amazing burger and crispy fries. Delivery took only 20 minutes! Super happy with this service.,5,Delivery Speed,Positive
+REV_01498,Excellent customer service resolved my item question instantly. 10/10 experience. Super happy with this service.,5,Customer Support,Positive
+REV_01499,Missing drinks and extra sauces that I paid for. Horrible service!,1,Customer Support,Negative
+REV_01500,Food was spilled all over inside the plastic bag. Awful packaging!,1,Packaging,Negative
